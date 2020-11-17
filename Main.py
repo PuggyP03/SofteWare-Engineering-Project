@@ -4,7 +4,7 @@
 - get in line errors 
 '''
 import Google_Maps_Class as GM
-GOOGLE_API_KEY = "AIzaSyByvzbXBPiTfJy-rQiir0TLjc-DpJZdDvU"
+GOOGLE_API_KEY = "--NEEDS KEY--"
 
 def Find_Place(results, query, location):
     print('Locations that provide', query,'in', location)
